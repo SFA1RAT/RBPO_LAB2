@@ -1,0 +1,37 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Project3.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Проверка источников на наличие зависимостей модуля…
+  F1.ixx
+  Limonov.ixx
+  F4.ixx
+  F2.ixx
+  A.ixx
+  F3.ixx
+  cmath
+  Компиляция…
+  A.ixx
+  cmath
+  F1.ixx
+  F3.ixx
+  F2.ixx
+  F4.ixx
+  Limonov.ixx
+C:\Users\Lenovo\Desktop\Учеба\3 курс\Разработка безопасного ПО (Барков)\2 лаба\rbpo_2_lab\Limonov.ixx(70,25): warning C4244: инициализация: преобразование "__int64" в "double", возможна потеря данных
+C:\Users\Lenovo\Desktop\Учеба\3 курс\Разработка безопасного ПО (Барков)\2 лаба\rbpo_2_lab\Limonov.ixx(111,25): warning C4244: инициализация: преобразование "__int64" в "double", возможна потеря данных
+  a.cpp
+C:\Users\Lenovo\Desktop\Учеба\3 курс\Разработка безопасного ПО (Барков)\2 лаба\rbpo_2_lab\a.cpp(2,1): warning C5244: "#include <cmath>" в purview модуля "Limonov1bib21004" отображается ошибочно. Рекомендуется переместить эту директиву перед объявлением модуля или заменить текстовое включение на "import <cmath>;".
+C:\Users\Lenovo\Desktop\Учеба\3 курс\Разработка безопасного ПО (Барков)\2 лаба\rbpo_2_lab\a.cpp(1,1): message : см. объявление модуля "Limonov1bib21004"
+C:\Users\Lenovo\Desktop\Учеба\3 курс\Разработка безопасного ПО (Барков)\2 лаба\rbpo_2_lab\a.cpp(15,21): warning C4244: инициализация: преобразование "__int64" в "double", возможна потеря данных
+  f1.cpp
+  f2.cpp
+  f3.cpp
+  f4.cpp
+  Limonov.cpp
+C:\Users\Lenovo\Desktop\Учеба\3 курс\Разработка безопасного ПО (Барков)\2 лаба\rbpo_2_lab\Limonov.cpp(51,21): warning C4244: инициализация: преобразование "__int64" в "double", возможна потеря данных
+  main.cpp
+  ModuleA.cpp
+  ModuleF1.cpp
+  ModuleF2.cpp
+  ModuleF3.cpp
+  ModuleF4.cpp
+  Создание кода...
+  Project3.vcxproj -> C:\Users\Lenovo\Desktop\Учеба\3 курс\Разработка безопасного ПО (Барков)\2 лаба\rbpo_2_lab\x64\Debug\rbpo_2.exe

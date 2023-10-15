@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\lenovo\\desktop\\учеба\\3 курс\\разработка безопасного по (барков)\\2 лаба\\rbpo_2_lab\\limonov.ixx",
+        "ProvidedModule": "Limonov1bib21004",
+        "ImportedModules": [
+            "Limonov1bib21004:F1",
+            "Limonov1bib21004:F2",
+            "Limonov1bib21004:A",
+            "Limonov1bib21004:F3",
+            "Limonov1bib21004:F4"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

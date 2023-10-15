@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\lenovo\\desktop\\учеба\\3 курс\\разработка безопасного по (барков)\\2 лаба\\rbpo_2_lab\\f3.ixx",
+        "ProvidedModule": "Limonov1bib21004:F3",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "Limonov1bib21004:A",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\Учеба\\3 курс\\Разработка безопасного ПО (Барков)\\2 лаба\\rbpo_2_lab\\x64\\Debug\\A.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

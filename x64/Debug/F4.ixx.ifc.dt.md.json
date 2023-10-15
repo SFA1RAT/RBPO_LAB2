@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\lenovo\\desktop\\учеба\\3 курс\\разработка безопасного по (барков)\\2 лаба\\rbpo_2_lab\\f4.ixx",
+        "ProvidedModule": "Limonov1bib21004:F4",
+        "ImportedModules": [
+            "Limonov1bib21004:A"
+        ],
+        "ImportedHeaderUnits": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\cmath"
+        ]
+    }
+}

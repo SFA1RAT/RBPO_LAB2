@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\lenovo\\desktop\\учеба\\3 курс\\разработка безопасного по (барков)\\2 лаба\\rbpo_2_lab\\f2.ixx",
+        "ProvidedModule": "Limonov1bib21004:F2",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\cmath",
+                "BMI": "C:\\Users\\Lenovo\\Desktop\\Учеба\\3 курс\\Разработка безопасного ПО (Барков)\\2 лаба\\rbpo_2_lab\\x64\\Debug\\cmath_DL679W2K5EOYAYHF.ifc"
+            }
+        ]
+    }
+}
